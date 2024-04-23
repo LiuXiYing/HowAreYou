@@ -14,7 +14,7 @@
   "commands": [
     {
       "name": "index",
-      "title": "Show Detail",
+      "title": "hay",
       "description": "Template with a plain detail view",
       "mode": "view"
     }
