@@ -18,7 +18,7 @@ export default function Command() {
             setIsLoading(false);
           }}
         >
-          <Grid.Dropdown.Item title="Large" value={Grid.ItemSize.Large} />
+
           <Grid.Dropdown.Item title="Medium" value={Grid.ItemSize.Medium} />
           <Grid.Dropdown.Item title="Small" value={Grid.ItemSize.Small} />
         </Grid.Dropdown>
